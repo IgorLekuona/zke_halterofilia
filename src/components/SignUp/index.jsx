@@ -6,8 +6,7 @@ import "./style.css";
 
 export const SignUp = () => {
 
-    const SIGN_UP_URL = "https://zarautzke.playoffinformatica.com/preinscripcion/26/KIROLARI-FEDERATUAK-IZEN-EMATEAK-22-23/?nvf=1";
-
+    const SIGN_UP_URL = "https://zarautzke.playoffinformatica.com/preinscripcion/32/KIROLARI-FEDERATUAK-IZEN-EMATEAK-23-24/?nvf=1";
     const {translate} = useContext(I18nContext);
 
     const handleClick = (e) => {

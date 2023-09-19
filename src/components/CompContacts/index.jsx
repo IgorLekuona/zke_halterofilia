@@ -17,7 +17,7 @@ export const CompContacts = () => {
                         </div>
                         <div className="col-8 text-truncate">
                             <a href={item.link} style={{color: "#000000", textDecoration: "none"}}>
-                                <h3>{  item.text  }</h3>
+                                <h3 style={{fontSize: "1rem"}}>{  item.text  }</h3>
                             </a>
                         </div>
                     </div>

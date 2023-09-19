@@ -35,7 +35,7 @@ const ZarautzSaria = () => {
                 <p>
                     {translate('zs4')}
                 </p><br/>
-                <img src={serje_reding} style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "40%", height: "auto"}} alt="Serje Reding" /><br/><br/>
+                <img src={serje_reding} style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "70%", height: "auto"}} alt="Serje Reding" /><br/><br/>
                 <p>
                     {translate('zs5')}
                 </p><br/>
