@@ -1,0 +1,33 @@
+
+.smStripe{
+    z-index: 0;
+    width: 10px;
+    height: 20px;
+    transform: skew(45deg);
+    background: #1b03a3;
+    position: fixed;
+    top: 100px;
+    right: 0;
+}
+
+.mdStripe{
+    z-index: 0;
+    width: 15px;
+    height: 60px;
+    transform: skew(45deg);
+    background: #1b03a3;
+    position: fixed;
+    top: 100px;
+    right: 0;
+}
+
+.lgStripe{
+    z-index: 0;
+    width: 20px;
+    height: 110px;
+    transform: skew(45deg);
+    background: #1b03a3;
+    position: fixed;
+    top: 100px;
+    right: 0;
+}

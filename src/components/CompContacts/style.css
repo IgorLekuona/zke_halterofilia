@@ -1,0 +1,22 @@
+.contact-box {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    row-gap: 1rem;
+    column-gap: 2rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.contact-item {
+    /* display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2rem;
+    align-items: center;
+    justify-content: center; */
+}
+
+.contact-img {
+    /* width: 15vw;
+    height: auto; */
+}

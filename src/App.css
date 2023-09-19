@@ -1,0 +1,12 @@
+.App {
+  text-align: left;
+}
+
+.center {
+  border: 5px solid #ffffff;
+  padding: 70px 0;
+}
+
+p {
+  text-align: justify;
+}

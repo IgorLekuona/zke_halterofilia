@@ -1,0 +1,23 @@
+.btnEus {
+  background-image: url("./eus_logo.png") ;
+  background-size: cover;
+}
+
+.btnCas {
+    background-image: url("./cas_logo.png") ;
+    background-size: contain;
+}
+
+.btnEng {
+    background-image: url("./eng_logo.png") ;
+    background-size: contain;
+}
+
+.btn-circle{
+    width: 40px;
+    height: 40px;
+    padding: 13px 13px;
+    border-radius: 30px;
+    font-size: 15px;
+    text-align: center;
+}

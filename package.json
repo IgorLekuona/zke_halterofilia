@@ -1,0 +1,53 @@
+{
+  "name": "web-haltero",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@hookform/error-message": "^2.0.0",
+    "@mui/material": "^5.10.9",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "axios": "^1.1.2",
+    "dotenv": "^16.0.3",
+    "leaflet": "^1.9.3",
+    "material-ui": "^0.20.0",
+    "react": "^18.2.0",
+    "react-bootstrap-sidebar-menu": "^2.0.3",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.37.0",
+    "react-icons": "^4.4.0",
+    "react-leaflet": "^4.2.0",
+    "react-native": "^0.70.3",
+    "react-router-dom": "^6.4.2",
+    "react-scripts": "^5.0.1",
+    "simple-react-google-maps": "^1.1.2",
+    "web-vitals": "^3.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

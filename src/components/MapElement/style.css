@@ -1,0 +1,10 @@
+
+.mapBox {
+    width: 50vw;
+    height: 50vh;
+    min-width: 250px;
+    min-height: 250px;
+    border: 1px solid black;
+    margin: auto;
+    z-index: 0;
+}
